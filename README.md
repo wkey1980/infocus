@@ -1,1 +1,1 @@
-# infocus
+# Infocus Theme
